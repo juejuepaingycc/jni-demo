@@ -1,0 +1,1 @@
+/Users/juejuepaing/Downloads/ReactNative/JNIDemo/android/app/build/intermediates/ndkBuild/release/obj/local/x86

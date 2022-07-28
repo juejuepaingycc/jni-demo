@@ -1,0 +1,2 @@
+[arm64-v8a] Compile        : get_key_jni <= get_key.c
+[arm64-v8a] SharedLibrary  : libget_key_jni.so

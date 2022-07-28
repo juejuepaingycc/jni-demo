@@ -1,0 +1,2 @@
+[x86_64] Compile        : get_key_jni <= get_key.c
+[x86_64] SharedLibrary  : libget_key_jni.so

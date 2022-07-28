@@ -1,0 +1,2 @@
+/Users/juejuepaing/Downloads/ReactNative/DeepLinkingDemo/android/app/src/main/jni/Android.mk
+/Users/juejuepaing/Downloads/ReactNative/DeepLinkingDemo/android/app/src/main/jni/Application.mk

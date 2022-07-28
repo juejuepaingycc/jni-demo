@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile thumb  : get_key_jni <= get_key.c
+[armeabi-v7a] SharedLibrary  : libget_key_jni.so
